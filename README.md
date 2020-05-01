@@ -1,6 +1,8 @@
 # free_steam_notification
 Python을 사용한 무료 스팀키 알림 프로그램. 
 
+텔레그램 채널 [ITCM 스팀 무료 알림 채널] 을 통해 공지해드림. ꉂꉂ(ᵔᗜᵔ*)
+
 # Preview
 ![1](https://github.com/skdlflzk/free_steam_notification/blob/master/preview.png?raw=true)
 
