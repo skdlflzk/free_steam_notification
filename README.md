@@ -1,7 +1,13 @@
 # free_steam_notification
-Python을 사용한 무료 스팀키 알림 프로그램. 
+Python을 사용한 무료 스팀키 알림 프로그램. (Humble Bundle / Uplay / Microsoft Store 등 포함)
 
-텔레그램 채널 [ITCM 스팀 무료 알림 채널] 을 통해 공지해드림. ꉂꉂ(ᵔᗜᵔ*)
+새 글 업데이트만 알려드릴 뿐이며, 게시글은 사이트 유저분들이 직접 글을 올려주십니다.
+
+항상 감사드려요!
+
+
+알림은 텔레그램 채널 [ITCM 스팀 무료 알림 채널] 을 통해 공지해드림. ꉂꉂ(ᵔᗜᵔ*)
+
 
 # Preview
 ![1](https://github.com/skdlflzk/free_steam_notification/blob/master/preview.png?raw=true)
