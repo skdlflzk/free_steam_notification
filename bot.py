@@ -12,4 +12,7 @@ def send(msg):
 	mc = f.readline()
 	f.close()
 	bot = telepot.Bot(token)
-	bot.sendMessage(mc,msg)
+
+
+	bot.sendMessage(mc,"test")
+	bot.sendPhoto(mc,"https://steamcdn-a.akamaihd.net/steam/apps/57300/header.jpg?t=1574253555",disable_notification=True)
